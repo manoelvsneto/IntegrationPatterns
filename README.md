@@ -1,5 +1,5 @@
 "# IntegrationPatterns" 
- ```
+```mermaid
 graph TD
     A[Início: Escolha o Tipo de Integração]
     A --> B{Integração de SISTEMAS ou DADOS?}
